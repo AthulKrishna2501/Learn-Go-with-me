@@ -1,6 +1,6 @@
 // Variables
 
-bool  // True or False
+bool // True or False
 
 
 string 
